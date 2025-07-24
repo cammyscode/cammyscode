@@ -1,0 +1,22 @@
+nome: GitHub-Perfil-Resumo-Cartões
+
+ligado:
+  criar:
+  schedule: # execute a cada 24 horas
+    - cron: "* */24 * * *"
+  fluxo de trabalho_ despacho:
+
+trabalhos:
+construir:
+  runs-on: ubuntu-latest
+  nome: gerar-github-cards
+  permissões:
+    conteúdos: escrever
+
+  passos:
+    - usos: ações/checkout@v2
+    - usa: vn7n24fzkq/github-profile-summary-cards@release
+      env:
+        GITHUB_TOKEN: ${{ segredos.[YOUR_SECRET_TOKEN_NAME] }}
+      com:
+        NOMEDOUSUÁRIO: ${{ github.repository_ owner }}
