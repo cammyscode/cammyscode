@@ -17,6 +17,6 @@ construir:
     - usos: ações/checkout@v2
     - usa: vn7n24fzkq/github-profile-summary-cards@release
       env:
-        GITHUB_TOKEN: ${{ secrets.summery_card_token }}
+        GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
       com:
         NOMEDOUSUÁRIO: ${{ github.repository_ owner }}
