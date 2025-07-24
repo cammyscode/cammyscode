@@ -1,7 +1,7 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou a Camille Almeida
- Sou graduanda em Engenharia de Software pelo Instituto Infnet<br> 
+ Graduanda em Engenharia de Software pelo Instituto Infnet<br> 
  Sou uma pessoa criativa e apaixonada por tecnologia<br>
 </div>
 
