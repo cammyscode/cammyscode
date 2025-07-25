@@ -9,21 +9,35 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou a Camille Almeida
  Graduanda em Engenharia de Software pelo Instituto Infnet<br> 
  Sou uma pessoa criativa e apaixonada por tecnologia<br>
-</div>
+</div><br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcammyscodel%2Fcammyscodel&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcammyscodel%2Fcammyscodel&label=VISITORS&labelColor=f75c7e&countColor=FFB6C1" />
 <br><br>
-  
-<a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
-<a href="https://app.daily.dev/camillealmeida"><img src="https://img.shields.io/badge/dailydotdev-d5d5d5?style=for-the-badge&logo=dailydotdev&logoColor=0A0209" /></a>
-<a href="mailto:camille.allmeida021@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Camille i.e.   camille.almeida021@gmail.com" /></a>
 </div>
 <br>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/r1KSgs0.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="mailto:camille.allmeida021@gmail.com"><img width="32px" alt="email of Camille i.e. camille.almeida021@gmail.com" src="https://i.imgur.com/nFbW7HI.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/cammy_almd?igsh=bXNuNWlrMWtjMXJi&utm_source=qr"><img width="32px" src="https://i.imgur.com/RGX0vou.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://app.daily.dev/camillealmeida"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+<br/>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineering%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
@@ -89,7 +103,7 @@
   <a href="https://leetcode.com/u/cammys/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
   <br>
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:hi@anmolbaranwal.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+ <a href="mailto:camille.allmeida021@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Camille i.e.   camille.almeida021@gmail.com" /></a>
   <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
