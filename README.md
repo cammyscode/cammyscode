@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/r1KSgs0.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="mailto:camille.allmeida021@gmail.com"><img width="32px" alt="email of Camille i.e. camille.almeida021@gmail.com" src="https://i.imgur.com/nFbW7HI.png"/></a>
+ <a href="mailto:camille.almeida021@gmail.com"><img width="32px" alt="email of Camille i.e. camille.almeida021@gmail.com" src="https://i.imgur.com/nFbW7HI.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/cammy_almd?igsh=bXNuNWlrMWtjMXJi&utm_source=qr"><img width="32px" src="https://i.imgur.com/RGX0vou.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -103,7 +103,7 @@
   <a href="https://leetcode.com/u/cammys/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
   <br>
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
- <a href="mailto:camille.allmeida021@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Camille i.e.   camille.almeida021@gmail.com" /></a>
+ <a href="mailto:camille.almeida021@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Camille i.e.   camille.almeida021@gmail.com" /></a>
   <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
