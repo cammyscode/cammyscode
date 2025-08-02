@@ -6,9 +6,9 @@
 
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou a Camille Almeida
- Graduanda em Engenharia de Software pelo Instituto Infnet<br> 
- Sou uma pessoa criativa e apaixonada por tecnologia<br>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Camille Almeida
+Undergraduate in Software Engineering at Instituto Infnet<br> 
+I am a creative person and passionate about technology<br>
 </div><br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
