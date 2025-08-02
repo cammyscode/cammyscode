@@ -90,7 +90,7 @@ I am a creative individual who is passionate about technology<br>
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Minhas Redes
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My SOcials
 
 > I'm just starting out in programming and have been exploring diferents plataforms to learn, to testing tools and share some of what I've learned. I'm in the first step of my journey, but always looking to learn more.
 <br>
