@@ -8,7 +8,7 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Camille Almeida
 Undergraduate in Software Engineering at Instituto Infnet<br> 
-I am a creative person and passionate about technology<br>
+I am a creative individual who is passionate about technology<br>
 </div><br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -92,8 +92,7 @@ I am a creative person and passionate about technology<br>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Minhas Redes
 
-> Estou começando agora na área de programação e tenho explorado diferentes plataformas para aprender, testar ferramentas e compartilhar um pouco do que venho aprendendo. Ainda estou no início da jornada, mas estou sempre buscando aprender mais. 
-
+> I'm just starting out in programming and have been exploring diferents plataforms to learn, to testing tools and share some of what I've learned. I'm in the first step of my journey, but always looking to learn more.
 <br>
 
 <div align="center">
