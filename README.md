@@ -96,10 +96,10 @@ I am a creative individual who is passionate about technology<br>
 <br>
 
 <div align="center">
-  <a href="https://app.daily.dev/camillealmeida"><img src="https://img.shields.io/badge/dailydotdev-d5d5d5?style=for-the-badge&logo=dailydotdev&logoColor=0A0209" /></a>
+  <a href="https://app.daily.dev/camillealmeida" target="_blank"><img src="https://img.shields.io/badge/dailydotdev-d5d5d5?style=for-the-badge&logo=dailydotdev&logoColor=0A0209" /></a>
   <br>
-  <a href="https://www.codedex.io/@CammyAlmd"><img src="https://img.shields.io/badge/codedex.io-0A0209?style=for-the-badge&logo=codedex.io&logoColor=d5d5d5" ></a>
-  <a href="https://leetcode.com/u/cammys/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
+  <a href="https://www.codedex.io/@CammyAlmd" target="_blank"><img src="https://img.shields.io/badge/codedex.io-0A0209?style=for-the-badge&logo=codedex.io&logoColor=d5d5d5" ></a>
+  <a href="https://leetcode.com/u/cammys/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
   <br>
   <a href= "https://www.linkedin.com/in/camille-almeida-0aa20815b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
  <a href="mailto:camille.almeida021@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Camille i.e.   camille.almeida021@gmail.com" /></a>
